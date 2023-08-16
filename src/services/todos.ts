@@ -1,4 +1,4 @@
-import { type TodoList } from '../types'
+import { TodoList } from "../types.d"
 
 const API_URL = 'https://api.jsonbin.io/v3/b/63ff3a52ebd26539d087639c'
 
